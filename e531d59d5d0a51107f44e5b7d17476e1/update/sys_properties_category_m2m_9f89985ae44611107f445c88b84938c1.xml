@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Loaner Request">8137d4d6e44611107f445c88b8493800</category>
+        <order>300</order>
+        <property display_value="x_cdltd_loaner_req.overdue.remindtime" name="x_cdltd_loaner_req.overdue.remindtime">53b8d8d6e44611107f445c88b84938d1</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-22 03:37:45</sys_created_on>
+        <sys_id>9f89985ae44611107f445c88b84938c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.overdue.remindtime.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e531d59d5d0a51107f44e5b7d17476e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e531d59d5d0a51107f44e5b7d17476e1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_9f89985ae44611107f445c88b84938c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-22 03:37:45</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

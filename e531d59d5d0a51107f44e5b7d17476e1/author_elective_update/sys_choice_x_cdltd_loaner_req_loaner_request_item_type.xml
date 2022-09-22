@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-09-20 01:05:05</sys_created_on>
-            <sys_id>036325e95d0a91107f44e5b7d17476d4</sys_id>
+            <sys_id>b39d84865d8215107f44e5b7d17476ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>item_type</sys_name>
             <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e531d59d5d0a51107f44e5b7d17476e1</sys_package>
@@ -20,7 +20,7 @@
             <dependent_value/>
             <element>item_type</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Choice 1</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
@@ -31,16 +31,16 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c1592d215d4a91107f44e5b7d1747621</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-20 01:30:53</sys_updated_on>
+            <sys_updated_on>2022-09-21 09:32:26</sys_updated_on>
             <value>Choice 1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>item_type</element>
             <hint/>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
             <label>Laptop</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
@@ -51,16 +51,16 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>076325e95d0a91107f44e5b7d17476c7</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-20 01:30:53</sys_updated_on>
+            <sys_updated_on>2022-09-21 09:32:26</sys_updated_on>
             <value>cmdb_ci_computer</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>item_type</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Choice 2</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
@@ -71,16 +71,16 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>01592d215d4a91107f44e5b7d1747624</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-20 01:30:53</sys_updated_on>
+            <sys_updated_on>2022-09-21 09:32:26</sys_updated_on>
             <value>Choice 2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>item_type</element>
             <hint/>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
             <label>Mobile Phone</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
@@ -91,16 +91,16 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>8b6325e95d0a91107f44e5b7d17476d6</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-20 01:30:53</sys_updated_on>
+            <sys_updated_on>2022-09-21 09:32:26</sys_updated_on>
             <value>cmdb_ci_mobile_device</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>item_type</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Choice 3</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
@@ -111,16 +111,16 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c1592d215d4a91107f44e5b7d1747626</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-20 01:30:53</sys_updated_on>
+            <sys_updated_on>2022-09-21 09:32:26</sys_updated_on>
             <value>Choice 3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>item_type</element>
             <hint/>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
             <label>Projector</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
@@ -131,9 +131,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4f6325e95d0a91107f44e5b7d17476d8</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-20 01:30:53</sys_updated_on>
+            <sys_updated_on>2022-09-21 09:32:26</sys_updated_on>
             <value>cmdb_ci_projector</value>
         </sys_choice>
     </sys_choice>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>Used to trigger an email to remind a user .</description>
+        <event_name>x_cdltd_loaner_req.Reminder</event_name>
+        <fired_by>Scheduled Script Execution: Loaner Item reminder</fired_by>
+        <queue/>
+        <suffix>Reminder</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-22 05:23:04</sys_created_on>
+        <sys_id>62417812e4c611107f445c88b8493841</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.Reminder</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e531d59d5d0a51107f44e5b7d17476e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e531d59d5d0a51107f44e5b7d17476e1</sys_scope>
+        <sys_update_name>sysevent_register_62417812e4c611107f445c88b8493841</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-22 06:56:30</sys_updated_on>
+        <table>x_cdltd_loaner_req_loaner_request</table>
+    </sysevent_register>
+</record_update>
